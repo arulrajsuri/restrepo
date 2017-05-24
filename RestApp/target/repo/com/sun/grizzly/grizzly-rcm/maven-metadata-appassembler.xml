@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.sun.grizzly</groupId>
+  <artifactId>grizzly-rcm</artifactId>
+  <versioning>
+    <release>1.9.18-i</release>
+    <versions>
+      <version>1.9.18-i</version>
+    </versions>
+    <lastUpdated>20170524185601</lastUpdated>
+  </versioning>
+</metadata>
